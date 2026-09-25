@@ -1,6 +1,0 @@
-gradio
-numpy
-soundfile
-librosa
-torch
-torchaudio
